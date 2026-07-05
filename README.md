@@ -1,5 +1,3 @@
-# INTERN ID:- CITS926
-
 # Sales_Forecasting
 
 > Predict future sales trends using XGBoost and lagged feature engineering.
